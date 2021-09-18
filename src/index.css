@@ -34,8 +34,15 @@ code {
   justify-content: center;
 }
 
+.users{
+  margin-top: 20px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
 .home {
   align-items: center;
+
 }
 
 .add {
